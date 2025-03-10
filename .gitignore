@@ -47,3 +47,4 @@ app.*.map.json
 update-android-project.sh
 .puro.json
 .vscode/
+DRAFT.md
